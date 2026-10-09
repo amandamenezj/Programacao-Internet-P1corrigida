@@ -5,7 +5,7 @@
 
 ## 📖 Sobre o Projeto
    
-   Aplicação Flask que calcula o Índice de Massa Corporal (IMC), classifica o resultado em faixas e apresenta a equipe, partindo de dois arquivos HTML fornecidos.
+   Aplicação Flask que calcula o Índice de Massa Corporal (IMC) que classifica o resultado em faixas e apresenta a equipe, partindo de dois arquivos HTML fornecidos pelo professor.
   
   ## Aluna:
   - Amanda Menezes de Jesus
