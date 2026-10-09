@@ -1,7 +1,7 @@
 # ✦ Avaliação P1 corrigida pelo professor Ronan
 
 >Programação para internet
-> Correção com comentários da aluna.
+>Correção com comentários da aluna.
 
 ## 📖 Sobre o Projeto
    
